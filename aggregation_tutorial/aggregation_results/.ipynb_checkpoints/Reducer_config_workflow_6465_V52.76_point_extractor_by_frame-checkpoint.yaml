@@ -1,0 +1,4 @@
+reducer_config:
+    point_reducer_hdbscan:
+        min_cluster_size: 4
+        min_samples: 3

@@ -1,0 +1,17 @@
+T0.instruction: For each penguin in the image, select 'adult' or 'chick' from the
+    list, then click to mark its centre. Please also label any penguin 'eggs' and
+    'other' animals.
+T0.tools.0.label: Adults
+T0.tools.1.label: Chicks
+T0.tools.2.label: Eggs
+T0.tools.3.details.0.answers.0.label: Sheathbill (white bird)
+T0.tools.3.details.0.answers.1.label: People
+T0.tools.3.details.0.answers.2.label: Giant petrel (big grey)
+T0.tools.3.details.0.answers.3.label: Skua (brown hawk-like bird)
+T0.tools.3.details.0.question: What is this?
+T0.tools.3.label: Other
+T1.answers.0.label: 'Yes'
+T1.answers.1.label: There were too many to count
+T1.question: Have you marked all the animals?
+T4.question: Enter a question.
+T6.answers.0.label: This image is too dark or blurry.
