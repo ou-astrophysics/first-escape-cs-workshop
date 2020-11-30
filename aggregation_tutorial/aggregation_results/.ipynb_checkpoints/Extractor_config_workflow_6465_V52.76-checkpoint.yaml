@@ -1,0 +1,13 @@
+extractor_config:
+    point_extractor_by_frame:
+    -   task: T0
+        tools:
+        - 0
+        - 1
+        - 2
+    question_extractor:
+    -   task: T1
+    shortcut_extractor:
+    -   task: T6
+workflow_id: 6465
+workflow_version: '52.76'
